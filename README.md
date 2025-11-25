@@ -1,3 +1,5 @@
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/44cb29df-a023-4560-8e40-2a619df1fe5f" />
+
 # AWS Resource Cleanup Script  
 **Delete unused EBS volumes, Elastic IPs & old snapshots → Save money instantly**
 
