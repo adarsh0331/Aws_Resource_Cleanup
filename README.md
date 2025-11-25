@@ -146,4 +146,3 @@ Many people save **$50–$500/month** on their very first run.
 You’re now an AWS cost-saving hero
 
 Run it monthly and keep your bill clean!
-```
